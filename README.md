@@ -1,2 +1,2 @@
 # simpleimdbsearch
-An example angular app
+An angular app example
